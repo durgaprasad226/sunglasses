@@ -1,0 +1,16 @@
+.sunglasses-card {
+  align-items: center;
+  text-align: center;
+  margin: 20px;
+  padding: 0px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.sunglasses-card img {
+  width: 400px;
+  height: 300px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
